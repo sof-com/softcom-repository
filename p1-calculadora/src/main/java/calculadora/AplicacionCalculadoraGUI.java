@@ -11,7 +11,7 @@ public class AplicacionCalculadoraGUI {
 	 */
 	public static void main(String[] args) {
 
-		// Ibnstanciar los objetos necesarios.
+		// Instanciar los objetos necesarios.
 	}
 
 }
